@@ -29,7 +29,7 @@
   "homepage": "https://github.com/googleapis/release-please-action#readme",
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "release-please": "github:gklepach/release-please#v2"
+    "release-please": "github:gklepach/release-please#v3"
   },
   "devDependencies": {
     "@types/mocha": "^9.0.0",
